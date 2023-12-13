@@ -1,0 +1,22 @@
+.navbar {
+  background-color: rgba(64, 64, 64, 0.482);
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  padding: 20px;
+  color: white;
+  position: absolute;
+  z-index: 99;
+}
+.navbar h3 {
+  margin-left: 100px;
+}
+.navlist {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  margin-left: 20%;
+  /* background-color: aqua; */
+  margin-top: 20px;
+  /* padding-top: 20px; */
+}
